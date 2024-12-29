@@ -89,7 +89,7 @@ export default function Dashboard() {
                     <X className="h-4 w-4" />
                   </Button>
                   <h2 className="text-2xl font-bold mb-4">Congratulations!</h2>
-                  <p>You've completed all tasks for today!</p>
+                  <p>You&#39;ve completed all tasks for today!</p>
                 </div>
               </motion.div>
             )}
